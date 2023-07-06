@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49510552991",
+    "project_id": "ecs-ml",
+    "storage_bucket": "ecs-ml.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49510552991:android:80caf874f4c5b9577959aa",
+        "android_client_info": {
+          "package_name": "com.example.ecs2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49510552991-dv29rbopq7pgh46m23gdsqb64na2761b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw3P5nuyZ72aHHWcXuYwHHvXgVoQGxkn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49510552991-dv29rbopq7pgh46m23gdsqb64na2761b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
